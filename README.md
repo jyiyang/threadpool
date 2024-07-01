@@ -4,7 +4,10 @@
 CMake
 
 ## Build and run
+
+```
 mkdir build
-cd build 
+cd build
 cmake ..
 ./test_thread_pool
+```
